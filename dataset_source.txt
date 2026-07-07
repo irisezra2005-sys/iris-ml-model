@@ -1,0 +1,10 @@
+## Dataset Name: Iris Dataset
+
+## Source: Scikit-learn Dataset Library
+
+## Dataset Link: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
+
+## Description: The Iris dataset is a well-known machine learning dataset containing 150 samples of iris flowers. It includes four numerical          features- sepal length, sepal width, petal length and petal width.
+
+## Dataset Loading Method:
+from sklearn.datasets import load_iris
